@@ -1,0 +1,235 @@
+* {
+	margin: 0;
+}
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: sans-serif;
+	margin-top: 1.1em;
+	margin-bottom: 1em;
+}
+h1 {
+	font-size: 32px;
+}
+caption {
+	border: 1px solid #000;
+	border-bottom: none;
+}
+table {
+	margin-top: 1em;
+	margin-bottom: 20px;
+}
+table, th, td {
+	border: 1px solid #000;
+}
+figcaption {
+	font-style: italic;
+}
+figure {
+	float: right;
+	margin: 0 0 60px 60px;
+	@media (max-width: 770px) {
+		margin: 0 0 20px 20px;
+	}
+}
+footer {
+	padding-bottom: 20px;
+}
+.container {
+	width: 70%;
+	margin: 0 auto;
+}
+
+.houston {}
+
+.description {}
+
+.content {
+
+	// .content__name
+
+	&__name {}
+
+	// .content__list
+
+	&__list {}
+
+	// .content__list-ol
+
+	&__list-ol {}
+
+	// .content__list-li
+
+	&__list-li {}
+}
+
+.listlist {}
+
+.listlist-a {}
+
+.listlist-ol {}
+
+.listlist-li {}
+
+.story {
+
+	// .story__name
+
+	&__name {}
+
+	// .story__etymology
+
+	&__etymology {}
+
+	// .story__etymology-name
+
+	&__etymology-name {}
+
+	// .story__etymology-text
+
+	&__etymology-text {}
+
+	// .story__grounds
+
+	&__grounds {}
+
+	// .story__grounds-name
+
+	&__grounds-name {}
+
+	// .story__grounds-text
+
+	&__grounds-text {}
+
+	// .story__century
+
+	&__century {}
+
+	// .story__century-name
+
+	&__century-name {}
+
+	// .story__century-text
+
+	&__century-text {}
+}
+
+.characteristic {
+
+	// .characteristic__geography
+
+	&__geography {}
+
+	// .characteristic__geography-name
+
+	&__geography-name {}
+
+	// .characteristic__geography-text
+
+	&__geography-text {}
+
+	// .characteristic__reliefwater
+
+	&__reliefwater {}
+
+	// .characteristic__reliefwater-text
+
+	&__reliefwater-text {}
+
+	// .characteristic__florafauna
+
+	&__florafauna {}
+
+	// .characteristic__florafauna-name
+
+	&__florafauna-name {}
+
+	// .characteristic__florafauna-text
+
+	&__florafauna-text {}
+}
+
+.characteristic-name {}
+
+.economy {
+
+	// .economy__state
+
+	&__state {}
+
+	// .economy__state-name
+
+	&__state-name {}
+
+	// .economy__state-text
+
+	&__state-text {}
+
+	// .economy__energyandpetrochemical
+
+	&__energyandpetrochemical {}
+
+	// .economy__energyandpetrochemical-text
+
+	&__energyandpetrochemical-text {}
+
+	// .economy__energyandpetrochemical-name
+
+	&__energyandpetrochemical-name {}
+
+	// .economy__industry
+
+	&__industry {}
+
+	// .economy__industry-name
+
+	&__industry-name {}
+
+	// .economy__industry-text
+
+	&__industry-text {}
+}
+
+.economy-name {}
+
+.population {
+
+	// .population__dynamicsandstructure
+
+	&__dynamicsandstructure {}
+
+	// .population__dynamicsandstructure-name
+
+	&__dynamicsandstructure-name {}
+
+	// .population__dynamicsandstructure-text
+
+	&__dynamicsandstructure-text {}
+
+	// .population__compositionlanguages
+
+	&__compositionlanguages {}
+
+	// .population__compositionlanguages-name
+
+	&__compositionlanguages-name {}
+
+	// .population__compositionlanguages-text
+
+	&__compositionlanguages-text {}
+}
+
+.population-name {}
+
+.massmedia {}
+
+.massmedia-name {}
+
+.massmedia-text {}
+
+.substimescities {}
+
+.substimescities-text {}
