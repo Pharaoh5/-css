@@ -46,6 +46,10 @@ figure {
   }
 }
 
+.clear {
+	clear: both;
+}
+
 footer {
   padding-bottom: 20px;
 }
